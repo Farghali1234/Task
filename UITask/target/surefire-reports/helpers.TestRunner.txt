@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: helpers.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 6.511 s <<< FAILURE! - in helpers.TestRunner
+initializationError(helpers.TestRunner)  Time elapsed: 0.006 s  <<< ERROR!
+cucumber.runtime.CucumberException: 
+java.util.regex.PatternSyntaxException: Illegal repetition near index 32
+I should see the error message {string}
+                                ^
+Caused by: java.util.regex.PatternSyntaxException: 
+Illegal repetition near index 32
+I should see the error message {string}
+                                ^
+

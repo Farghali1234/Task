@@ -1,0 +1,14 @@
+pages\ProductsPage.class
+setups\Capabilities.class
+pages\LoginPage.class
+pages\CartPage.class
+helpers\TestRunner.class
+helpers\utils\ConfigReader.class
+steps\CheckoutSteps.class
+steps\ProductsSteps.class
+steps\LoginStep.class
+pages\CheckoutPage.class
+setups\Hook.class
+helpers\GlobalVariables.class
+setups\BrowserSetup.class
+steps\CartSteps.class
